@@ -1,6 +1,6 @@
 ## Hi there, my name is Lyn ☀️
 
-I’m an Urban Designer turned Software Engineer. My background in engineering and design sparked my curiosity to take my problem-solving skills into the world of tech! 
+I’m an Urban Designer turned Software Engineer. My background in engineering and design sparked my curiosity to take my problem-solving skills into the world of tech as a front-end engineer!
 
 *   📍  I'm based in California, USA
 *   🌲  I'm currently working on implementing stretch features to my first full-stack app: [DogTrails](http://dogtrails.herokuapp.com/)
