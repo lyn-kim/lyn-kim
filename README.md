@@ -5,6 +5,7 @@ I’m an Urban Designer turned Software Engineer. My background in engineering a
 *   📍  I'm based in California, USA
 *   🌲  I'm currently working on implementing stretch features to my first full-stack app: [DogTrails](http://dogtrails.herokuapp.com/)
 *   📚  I'm in the process of expanding my skills in React and TypeScript but open to learning any tools!
+*   ✏️  Constantly brainstorming my next blog-post topic
 *   🌎  + always exploring ways to reduce my carbon footprint on this beautiful planet (would love to collaborate on any projects that involve this topic!)
   
 ## My GitHub Stats
