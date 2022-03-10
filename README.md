@@ -4,8 +4,8 @@ I’m an Urban Designer turned Software Engineer. My background in engineering a
 
 *   📍  I'm based in California, USA
 *   🌲  I'm currently working on implementing stretch features to my first full-stack app: [DogTrails](http://dogtrails.herokuapp.com/)
-*   📚  I'm in the process of expanding my skills in React and TypeScript but open to learning any tools
-*   🌎  And always exploring ways to reduce my carbon footprint on this beautiful planet (would love to collaborate on any projects that involve this topic!)
+*   📚  I'm in the process of expanding my skills in React and TypeScript but open to learning any tools!
+*   🌎  + always exploring ways to reduce my carbon footprint on this beautiful planet (would love to collaborate on any projects that involve this topic!)
   
 ## My GitHub Stats
 <div><a href="http://www.github.com/lyn-kim"><img src="https://github-readme-stats.vercel.app/api?username=lyn-kim&show_icons=true&hide=&count_private=true&title_color=6E6F71&text_color=6E6F71&icon_color=F3C766&bg_color=ffffff&hide_border=false&show_icons=true" alt="lyn-kim's GitHub stats" /></a></div>
