@@ -38,3 +38,4 @@ I’m an Urban Designer turned Software Engineer. My background in engineering a
 ## My blog posts
 * [Hi, I'm Lyn - I'm Pivoting My Career to Tech🚀](https://lynkim.hashnode.dev/hi-im-lyn-im-pivoting-my-career-to-tech)
 * [Here's How I'm Paving My Path to Becoming a Software Engineer💻](https://lynkim.hashnode.dev/heres-how-im-paving-my-path-to-becoming-a-software-engineer)
+* [I graduated from a coding bootcamp. Was it worth it?🤔](https://lynkim.hashnode.dev/i-graduated-from-a-coding-bootcamp-was-it-worth-it)
